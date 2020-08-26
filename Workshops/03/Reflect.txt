@@ -1,0 +1,13 @@
+1. 41. (40 + the null terminator).. the null terminator is preset towards the end of the string
+
+2. Function Overload
+3. Application of function overloading. Accessing cout functions. Application of arithmetic operations
+
+QUIZ 3 reflection
+Score- 8/10
+
+Correct answer- ::
+my selected answer- none of the above. (was confused with the syntax since ideally it should be ::functionname to access global functions)
+
+q2- selected aswer- true
+member functions can only access other PRIVATE members within its class scope

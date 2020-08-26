@@ -1,0 +1,14 @@
+
+1. Safe Empty State is a state where the constructor initialises all the data members of the object as zero. This safe state indicates the presence of the instance variables and prevents from the object to be broken when called by the client code. This initialises the object's state during the time of its creation. 
+
+2. Code Duplication is minimized by introducing multiple functions so that they can deal with seperate parts of the code. 
+
+3. This particular function can access the private data since its function scope is withing the class scope and as long as that is the case, functions can access any part of the class. 
+
+4. The exact number of characters involved  in strncpy. 
+
+5. I have learned to apply constructors and deconstructors and prevent objects from getting broken. 
+
+Quiz 4 Reflection (6 out of 10) (2 questions our of 3 correct)
+
+incorrect question- There is nothing wrong with the given code. Correct answer- true. Everything was declared and called as per the expectations.
